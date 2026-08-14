@@ -22,21 +22,7 @@
       "description": "How sleep quality affects broader health outcomes: heart health, weight, immunity, and metabolism.",
       "keywords": ["sleep and weight loss", "sleep and heart health", "sleep and immune system", "sleep deprivation effects"]
     },
-   {
-      "id": 6,
-      "slug": "circadian-rhythm",
-      "name": "Sleep Schedule & Circadian Rhythm",
-      "description": "Content on fixing sleep schedules, managing jet lag, shift work, and resetting the body's internal clock.",
-      "keywords": ["how to fix sleep schedule", "circadian rhythm reset", "jet lag remedies", "shift work sleep tips"]
-    },
-    {
-      "id": 7,
-      "slug": "napping",
-      "name": "Napping & Power Naps",
-      "description": "Guidance on effective daytime napping, ideal nap duration, and power nap techniques.",
-      "keywords": ["how to nap properly", "power nap duration", "benefits of napping", "best time to nap"]
-    },
-    {
+     {
       "id": 8,
       "slug": "sleep-and-mental-health",
       "name": "Sleep & Mental Health",
