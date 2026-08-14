@@ -22,12 +22,12 @@
       "description": "How sleep quality affects broader health outcomes: heart health, weight, immunity, and metabolism.",
       "keywords": ["sleep and weight loss", "sleep and heart health", "sleep and immune system", "sleep deprivation effects"]
     },
-     {
+    {
       "id": 8,
       "slug": "sleep-and-mental-health",
       "name": "Sleep & Mental Health",
       "description": "The relationship between sleep and anxiety, stress, depression, and overall mental wellbeing.",
       "keywords": ["sleep and anxiety", "sleep and stress", "sleep and depression", "how to sleep when anxious"]
-    },
-    ]
+    }
+  ]
 }
