@@ -1,9 +1,6 @@
----
 title: "Panduan Lengkap dan Rahasia Tips Tidur Nyenyak Secara Alami untuk Kesehatan Optimal"
 category: "Kesehatan"
 image: "https://images.unsplash.com/photo-1511296265581-c2450046447d?w=800&auto=format&fit=crop"
----
-
 ## 1. Pengantar: Mengapa Tidur Nyenyak Sangat Penting Bagi Kehidupan Kita?
 
 Tidur adalah salah satu kebutuhan paling mendasar bagi setiap manusia, sama pentingnya dengan makan, minum, dan bernapas. Meskipun sering kali diabaikan atau dianggap remeh di tengah gaya hidup modern yang sibuk dan serba cepat, tidur nyenyak memainkan peran yang sangat krusial dalam menjaga keseimbangan fisik, mental, dan emosional kita. Kurang tidur bukan hanya membuat kita merasa lelah keesokan harinya, tetapi juga dapat memicu berbagai masalah kesehatan jangka panjang yang serius, mulai dari penurunan sistem kekebalan tubuh, obesitas, diabetes, hingga masalah kardiovaskular.
