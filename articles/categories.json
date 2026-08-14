@@ -1,0 +1,14 @@
+{
+    "kategori": [
+        {
+            "id": "teknologi",
+            "nama": "Teknologi Terkini",
+            "deskripsi": "Berita dan artikel terbaru seputar perkembangan teknologi, gadget, dan keamanan cyber."
+        },
+        {
+            "id": "kesehatan",
+            "nama": "Kesehatan",
+            "deskripsi": "Tips hidup sehat, nutrisi, dan kebugaran tubuh untuk gaya hidup modern."
+        }
+    ]
+}
