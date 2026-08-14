@@ -1,0 +1,17 @@
+{
+  "repository": "ppcnesia-bank/artikel-terpusat",
+  "updated_at": "2026-08-13T10:00:00Z",
+  "total_articles": 24,
+  "articles": [
+    {
+      "sha": "e9b101c872d8e411b23992211aa891001ff821ab",
+      "file_path": "articles/teknologi/keamanan-cyber-data-sensitif.md",
+      "title": "Panduan Keamanan Cyber & Perlindungan Data Sensitif 2026",
+      "slug": "panduan-keamanan-cyber-data-sensitif-2026",
+      "category": "Teknologi",
+      "author": "Redaksi PPCNesia",
+      "created_at": "2026-08-13 10:00:00",
+      "image_url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800"
+    }
+  ]
+}
