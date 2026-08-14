@@ -9,13 +9,6 @@
       "keywords": ["how to sleep better", "sleep hygiene", "bedtime routine", "how to fall asleep fast"]
     },
     {
-      "id": 2,
-      "slug": "sleep-disorders",
-      "name": "Insomnia & Sleep Disorders",
-      "description": "Educational content on insomnia, sleep apnea, restless leg syndrome, and other diagnosed sleep conditions.",
-      "keywords": ["insomnia causes", "sleep apnea symptoms", "restless leg syndrome", "how to sleep with insomnia"]
-    },
-    {
       "id": 3,
       "slug": "natural-remedies",
       "name": "Natural Remedies for Sleep",
@@ -29,14 +22,7 @@
       "description": "How sleep quality affects broader health outcomes: heart health, weight, immunity, and metabolism.",
       "keywords": ["sleep and weight loss", "sleep and heart health", "sleep and immune system", "sleep deprivation effects"]
     },
-    {
-      "id": 5,
-      "slug": "sleep-environment",
-      "name": "Sleep Environment & Products",
-      "description": "Bedroom setup, mattress and pillow guidance, white noise, temperature, and other physical sleep factors.",
-      "keywords": ["best mattress for sleep", "best pillow", "white noise for sleep", "ideal bedroom temperature for sleep"]
-    },
-    {
+   {
       "id": 6,
       "slug": "circadian-rhythm",
       "name": "Sleep Schedule & Circadian Rhythm",
@@ -57,12 +43,5 @@
       "description": "The relationship between sleep and anxiety, stress, depression, and overall mental wellbeing.",
       "keywords": ["sleep and anxiety", "sleep and stress", "sleep and depression", "how to sleep when anxious"]
     },
-    {
-      "id": 9,
-      "slug": "sleep-for-specific-groups",
-      "name": "Sleep for Specific Groups",
-      "description": "Sleep guidance tailored to specific life stages or populations: babies, elderly, pregnant women, and others.",
-      "keywords": ["how to get baby to sleep", "sleep tips for elderly", "sleep during pregnancy", "toddler sleep schedule"]
-    }
-  ]
+    ]
 }
