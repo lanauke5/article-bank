@@ -1,9 +1,30 @@
 {
   "settings": {
     "default_enabled": false,
-    "description": "Central affiliate CTA configuration for HowToSleep.work. Article keys must match the article slug in the database."
+    "description": "Central affiliate CTA configuration for HowToSleep.work. Article keys match the article slug without the leading 3-digit prefix."
   },
   "articles": {
+    "why-youre-still-tired-after-8-hours-of-sleep": {
+      "enabled": true,
+      "title": "Why You're Still Tired After 8 Hours of Sleep",
+      "text": "If you sleep 8 hours and still wake up exhausted, your brain missed this vital phase.",
+      "button": "Smart Cooling Mattress Topper / Temp Pod",
+      "url": "https://howtosleep.work/the-3-minute-trick-to-reset-your-sleep-clock"
+    },
+    "never-drink-coffee-right-after-waking-up": {
+      "enabled": true,
+      "title": "Never Drink Coffee Right After Waking Up",
+      "text": "Drinking coffee within 60 minutes of waking up guarantees an afternoon crash.",
+      "button": "High-Purity Electrolyte Powder Mix",
+      "url": "https://howtosleep.work/why-mouth-taping-changes-your-sleep-quality"
+    },
+    "the-3-minute-trick-to-reset-your-sleep-clock": {
+      "enabled": true,
+      "title": "The 3-Minute Trick to Reset Your Sleep Clock",
+      "text": "Here is how to reset your internal body clock in less than 3 minutes every morning.",
+      "button": "10,000 Lux Light Therapy SAD Lamp",
+      "url": "https://howtosleep.work/stop-taking-melatonin-pills-immediately"
+    },
     "stop-taking-melatonin-pills-immediately": {
       "enabled": true,
       "title": "Support Your Natural Sleep Routine",
