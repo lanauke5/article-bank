@@ -1,0 +1,15 @@
+{
+  "settings": {
+    "default_enabled": false,
+    "description": "Central affiliate CTA configuration for HowToSleep.work. Article keys must match the article slug in the database."
+  },
+  "articles": {
+    "stop-taking-melatonin-pills-immediately": {
+      "enabled": true,
+      "title": "Support Your Natural Sleep Routine",
+      "text": "Discover high-absorption magnesium glycinate for relaxation and a healthy nighttime sleep routine.",
+      "button": "Try High-Absorption Magnesium Glycinate",
+      "url": "https://example.com/high-absorption-magnesium-glycinate"
+    }
+  }
+}
