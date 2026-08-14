@@ -1,14 +1,68 @@
 {
-    "kategori": [
-        {
-            "id": "teknologi",
-            "nama": "Teknologi Terkini",
-            "deskripsi": "Berita dan artikel terbaru seputar perkembangan teknologi, gadget, dan keamanan cyber."
-        },
-        {
-            "id": "kesehatan",
-            "nama": "Kesehatan",
-            "deskripsi": "Tips hidup sehat, nutrisi, dan kebugaran tubuh untuk gaya hidup modern."
-        }
-    ]
+  "site": "howtosleep.work",
+  "categories": [
+    {
+      "id": 1,
+      "slug": "sleep-tips",
+      "name": "Sleep Tips & Habits",
+      "description": "General tips, nighttime routines, and sleep hygiene practices for falling asleep faster and sleeping better.",
+      "keywords": ["how to sleep better", "sleep hygiene", "bedtime routine", "how to fall asleep fast"]
+    },
+    {
+      "id": 2,
+      "slug": "sleep-disorders",
+      "name": "Insomnia & Sleep Disorders",
+      "description": "Educational content on insomnia, sleep apnea, restless leg syndrome, and other diagnosed sleep conditions.",
+      "keywords": ["insomnia causes", "sleep apnea symptoms", "restless leg syndrome", "how to sleep with insomnia"]
+    },
+    {
+      "id": 3,
+      "slug": "natural-remedies",
+      "name": "Natural Remedies for Sleep",
+      "description": "Non-pharmaceutical approaches to better sleep, including supplements, herbs, and natural techniques.",
+      "keywords": ["melatonin for sleep", "herbal tea for sleep", "magnesium sleep", "essential oils sleep", "how to sleep naturally"]
+    },
+    {
+      "id": 4,
+      "slug": "sleep-and-health",
+      "name": "Sleep & Health Connection",
+      "description": "How sleep quality affects broader health outcomes: heart health, weight, immunity, and metabolism.",
+      "keywords": ["sleep and weight loss", "sleep and heart health", "sleep and immune system", "sleep deprivation effects"]
+    },
+    {
+      "id": 5,
+      "slug": "sleep-environment",
+      "name": "Sleep Environment & Products",
+      "description": "Bedroom setup, mattress and pillow guidance, white noise, temperature, and other physical sleep factors.",
+      "keywords": ["best mattress for sleep", "best pillow", "white noise for sleep", "ideal bedroom temperature for sleep"]
+    },
+    {
+      "id": 6,
+      "slug": "circadian-rhythm",
+      "name": "Sleep Schedule & Circadian Rhythm",
+      "description": "Content on fixing sleep schedules, managing jet lag, shift work, and resetting the body's internal clock.",
+      "keywords": ["how to fix sleep schedule", "circadian rhythm reset", "jet lag remedies", "shift work sleep tips"]
+    },
+    {
+      "id": 7,
+      "slug": "napping",
+      "name": "Napping & Power Naps",
+      "description": "Guidance on effective daytime napping, ideal nap duration, and power nap techniques.",
+      "keywords": ["how to nap properly", "power nap duration", "benefits of napping", "best time to nap"]
+    },
+    {
+      "id": 8,
+      "slug": "sleep-and-mental-health",
+      "name": "Sleep & Mental Health",
+      "description": "The relationship between sleep and anxiety, stress, depression, and overall mental wellbeing.",
+      "keywords": ["sleep and anxiety", "sleep and stress", "sleep and depression", "how to sleep when anxious"]
+    },
+    {
+      "id": 9,
+      "slug": "sleep-for-specific-groups",
+      "name": "Sleep for Specific Groups",
+      "description": "Sleep guidance tailored to specific life stages or populations: babies, elderly, pregnant women, and others.",
+      "keywords": ["how to get baby to sleep", "sleep tips for elderly", "sleep during pregnancy", "toddler sleep schedule"]
+    }
+  ]
 }
