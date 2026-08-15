@@ -1,6 +1,6 @@
 {
   "settings": {
-    "default_enabled": true,
+    "default_enabled": false,
     "total_articles": 90,
     "site_domain": "howtosleep.work",
     "description": "Centralized affiliate CTA configuration for HowToSleep.work covering Video IDs 001 to 090 (slugs without number prefix)."
