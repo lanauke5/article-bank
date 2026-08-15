@@ -4,26 +4,635 @@
     "description": "Central affiliate CTA configuration for HowToSleep.work. Article keys match the article slug without the leading 3-digit prefix."
   },
   "articles": {
-     "why-youre-still-tired-after-8-hours-of-sleep": {
-    "enabled": true,
-    "title": "Why You're Still Tired After 8 Hours of Sleep",
-    "text": "If you sleep 8 hours and still wake up exhausted, your brain missed this vital phase.",
-    "button": "Smart Cooling Mattress Topper / Temp Pod",
-    "url": "https://howtosleep.work/smart-cooling-mattress-topper-temp-pod"
-  },
-  "never-drink-coffee-right-after-waking-up": {
-    "enabled": true,
-    "title": "Never Drink Coffee Right After Waking Up",
-    "text": "Drinking coffee within 60 minutes of waking up guarantees an afternoon crash.",
-    "button": "High-Purity Electrolyte Powder Mix",
-    "url": "https://howtosleep.work/high-purity-electrolyte-powder-mix"
-  },
-  "the-3-minute-trick-to-reset-your-sleep-clock": {
-    "enabled": true,
-    "title": "The 3-Minute Trick to Reset Your Sleep Clock",
-    "text": "Here is how to reset your internal body clock in less than 3 minutes every morning.",
-    "button": "10,000 Lux Light Therapy SAD Lamp",
-    "url": "https://howtosleep.work/10-000-lux-light-therapy-sad-lamp"
-  }
+    "why-youre-still-tired-after-8-hours-of-sleep": {
+      "enabled": true,
+      "title": "Why You're Still Tired After 8 Hours of Sleep",
+      "text": "If you sleep 8 hours and still wake up exhausted, your brain missed this vital phase.",
+      "button": "Smart Cooling Mattress Topper / Temp Pod",
+      "url": "https://howtosleep.work/smart-cooling-mattress-topper-temp-pod"
+    },
+    "never-drink-coffee-right-after-waking-up": {
+      "enabled": true,
+      "title": "Never Drink Coffee Right After Waking Up",
+      "text": "Drinking coffee within 60 minutes of waking up guarantees an afternoon crash.",
+      "button": "High-Purity Electrolyte Powder Mix",
+      "url": "https://howtosleep.work/high-purity-electrolyte-powder-mix"
+    },
+    "the-3-minute-trick-to-reset-your-sleep-clock": {
+      "enabled": true,
+      "title": "The 3-Minute Trick to Reset Your Sleep Clock",
+      "text": "Here is how to reset your internal body clock in less than 3 minutes every morning.",
+      "button": "10,000 Lux Light Therapy SAD Lamp",
+      "url": "https://howtosleep.work/10-000-lux-light-therapy-sad-lamp"
+    },
+    "why-mouth-taping-changes-your-sleep-quality": {
+      "enabled": true,
+      "title": "Why Mouth Taping Changes Your Sleep Quality",
+      "text": "If you wake up with dry mouth or brain fog, you are suffocating your sleep quality.",
+      "button": "Premium Ergonomic Sleep Mouth Tape",
+      "url": "https://howtosleep.work/premium-ergonomic-sleep-mouth-tape"
+    },
+    "stop-taking-melatonin-pills-immediately": {
+      "enabled": true,
+      "title": "Stop Taking Melatonin Pills Immediately!",
+      "text": "Stop taking high-dose melatonin pillsthey are destroying your natural hormones.",
+      "button": "High-Absorption Magnesium Glycinate",
+      "url": "https://howtosleep.work/high-absorption-magnesium-glycinate"
+    },
+    "the-ultimate-10-3-2-1-0-sleep-protocol": {
+      "enabled": true,
+      "title": "The Ultimate 10-3-2-1-0 Sleep Protocol",
+      "text": "Follow this simple 5-step rule if you want to fall asleep in under 2 minutes tonight.",
+      "button": "Blue-Light Blocking Glasses (Amber/Red)",
+      "url": "https://howtosleep.work/blue-light-blocking-glasses-amber-red"
+    },
+    "how-blue-light-destroys-your-deep-sleep": {
+      "enabled": true,
+      "title": "How Blue Light Destroys Your Deep Sleep",
+      "text": "Looking at your phone at 10 PM tells your brain the sun just rose at noon.",
+      "button": "100% Blue-Light Spectrum Blocking Glasses",
+      "url": "https://howtosleep.work/100-blue-light-spectrum-blocking-glasses"
+    },
+    "the-physiological-sigh-stop-anxiety-in-30s": {
+      "enabled": true,
+      "title": "The Physiological Sigh: Stop Anxiety in 30s",
+      "text": "Cant quiet your racing mind in bed? Try the double-breath secret used by neuroscientists.",
+      "button": "Oura Ring / WHOOP Fitness & Sleep Tracker",
+      "url": "https://howtosleep.work/oura-ring-whoop-fitness-sleep-tracker"
+    },
+    "why-eating-late-destroys-your-sleep-recovery": {
+      "enabled": true,
+      "title": "Why Eating Late Destroys Your Sleep Recovery",
+      "text": "Eating late at night forces your heart to work overtime while you sleep.",
+      "button": "Continuous Glucose Monitor (CGM)",
+      "url": "https://howtosleep.work/continuous-glucose-monitor-cgm"
+    },
+    "magnesium-threonate-the-brain-sleep-hack": {
+      "enabled": true,
+      "title": "Magnesium Threonate: The Brain Sleep Hack",
+      "text": "This specific form of magnesium crosses the blood-brain barrier to quiet your mind.",
+      "button": "Pure Magnesium L-Threonate Capsules",
+      "url": "https://howtosleep.work/pure-magnesium-l-threonate-capsules"
+    },
+    "how-to-fix-waking-up-at-3-am-every-night": {
+      "enabled": true,
+      "title": "How to Fix Waking Up at 3 AM Every Night",
+      "text": "Waking up wide awake at 3 AM? Your liver and adrenal glands are sending a warning.",
+      "button": "Raw Unfiltered Organic Honey",
+      "url": "https://howtosleep.work/raw-unfiltered-organic-honey"
+    },
+    "20-minute-nsdr-the-secret-nap-of-high-performers": {
+      "enabled": true,
+      "title": "20-Minute NSDR: The Secret Nap of High Performers",
+      "text": "This 20-minute non-sleep deep rest protocol restores 4 hours of lost dopamine.",
+      "button": "Bluetooth Sleep Headphones Eye Mask",
+      "url": "https://howtosleep.work/bluetooth-sleep-headphones-eye-mask"
+    },
+    "why-complete-darkness-boosts-melatonin-200": {
+      "enabled": true,
+      "title": "Why Complete Darkness Boosts Melatonin 200%",
+      "text": "A single tiny LED light in your bedroom is degrading your heart's overnight recovery.",
+      "button": "3D Contoured 100% Blackout Sleep Mask",
+      "url": "https://howtosleep.work/3d-contoured-100-blackout-sleep-mask"
+    },
+    "how-hot-showers-before-bed-trigger-deep-sleep": {
+      "enabled": true,
+      "title": "How Hot Showers Before Bed Trigger Deep Sleep",
+      "text": "Want to fall asleep 36% faster tonight? Take a hot shower right before bed.",
+      "button": "Aromatherapy Shower Steamer Set",
+      "url": "https://howtosleep.work/aromatherapy-shower-steamer-set"
+    },
+    "the-90-minute-sleep-cycle-secret-you-must-know": {
+      "enabled": true,
+      "title": "The 90-Minute Sleep Cycle Secret You Must Know",
+      "text": "Waking up groggy isn't about how long you sleptit's about *when* you woke up.",
+      "button": "Smart Sleep Phase Alarm Clock",
+      "url": "https://howtosleep.work/smart-sleep-phase-alarm-clock"
+    },
+    "l-theanine-how-to-turn-off-evening-overthinking": {
+      "enabled": true,
+      "title": "L-Theanine: How to Turn Off Evening Overthinking",
+      "text": "If your brain starts racing the second your head hits the pillow, you need this amino acid.",
+      "button": "Suntheanine L-Theanine Supplement",
+      "url": "https://howtosleep.work/suntheanine-l-theanine-supplement"
+    },
+    "how-alcohol-deceives-your-brain-into-fake-sleep": {
+      "enabled": true,
+      "title": "How Alcohol Deceives Your Brain into Fake Sleep",
+      "text": "Think a nightcap helps you sleep? It actually paralyzes your brains recovery centers.",
+      "button": "Non-Alcoholic Botanical Sleep Elixir",
+      "url": "https://howtosleep.work/non-alcoholic-botanical-sleep-elixir"
+    },
+    "fix-your-pillow-posture-to-double-sleep-oxygen": {
+      "enabled": true,
+      "title": "Fix Your Pillow Posture to Double Sleep Oxygen",
+      "text": "Your pillow position might be choking your brain of oxygen all night long.",
+      "button": "Ergonomic Orthopedic Cervical Contour Pillow",
+      "url": "https://howtosleep.work/ergonomic-orthopedic-cervical-contour-pillow"
+    },
+    "sunset-viewing-the-forgotten-sleep-trigger": {
+      "enabled": true,
+      "title": "Sunset Viewing: The Forgotten Sleep Trigger",
+      "text": "Watching the sunset is the ultimate natural remedy to prep your brain for deep sleep.",
+      "button": "Salt Lamp / Low-Blue Amber Night Lights",
+      "url": "https://howtosleep.work/salt-lamp-low-blue-amber-night-lights"
+    },
+    "the-brain-dump-journal-method-for-insomnia": {
+      "enabled": true,
+      "title": "The Brain Dump Journal Method for Insomnia",
+      "text": "Clear late-night sleep anxiety in 5 minutes with the 'Brain Dump' protocol.",
+      "button": "Bedside Sleep & Journaling Notebook",
+      "url": "https://howtosleep.work/bedside-sleep-journaling-notebook"
+    },
+    "glycine-the-amino-acid-for-ice-cold-deep-sleep": {
+      "enabled": true,
+      "title": "Glycine: The Amino Acid for Ice-Cold Deep Sleep",
+      "text": "This 3-gram secret lowers your core body temperature to induce deep sleep instantly.",
+      "button": "Pure Micronized Glycine Powder",
+      "url": "https://howtosleep.work/pure-micronized-glycine-powder"
+    },
+    "why-heavy-blankets-lower-nighttime-cortisol": {
+      "enabled": true,
+      "title": "Why Heavy Blankets Lower Nighttime Cortisol",
+      "text": "Weighted blankets aren't just cozythey physically hack your nervous system.",
+      "button": "Cooling Breathable Weighted Blanket",
+      "url": "https://howtosleep.work/cooling-breathable-weighted-blanket"
+    },
+    "apigenin-the-chamomile-compound-for-sleep": {
+      "enabled": true,
+      "title": "Apigenin: The Chamomile Compound for Sleep",
+      "text": "Discover the bio-active compound in chamomile that relaxes your nervous system.",
+      "button": "Pure Apigenin 50mg Capsules",
+      "url": "https://howtosleep.work/pure-apigenin-50mg-capsules"
+    },
+    "why-exercise-after-8-pm-ruins-your-rem-sleep": {
+      "enabled": true,
+      "title": "Why Exercise After 8 PM Ruins Your REM Sleep",
+      "text": "Working out late at night might be the exact reason you wake up feeling wrecked.",
+      "button": "Acupressure Mat and Pillow Set",
+      "url": "https://howtosleep.work/acupressure-mat-and-pillow-set"
+    },
+    "grounding-how-earth-electrons-reduce-inflammation": {
+      "enabled": true,
+      "title": "Grounding: How Earth Electrons Reduce Inflammation",
+      "text": "Walking barefoot on grass sounds weird, but it lowers nighttime stress hormones.",
+      "button": "Conductive Earthing Grounding Mattress Mat",
+      "url": "https://howtosleep.work/conductive-earthing-grounding-mattress-mat"
+    },
+    "the-danger-of-phone-charging-near-your-pillow": {
+      "enabled": true,
+      "title": "The Danger of Phone Charging Near Your Pillow",
+      "text": "Stop charging your smartphone on your nightstandheres what it does to your sleep.",
+      "button": "Sunrise Simulation Analog Alarm Clock",
+      "url": "https://howtosleep.work/sunrise-simulation-analog-alarm-clock"
+    },
+    "how-tart-cherry-juice-boosts-natural-melatonin": {
+      "enabled": true,
+      "title": "How Tart Cherry Juice Boosts Natural Melatonin",
+      "text": "Drink this natural red juice before bed to sleep 40 minutes longer every night.",
+      "button": "Organic Montmorency Tart Cherry Extract",
+      "url": "https://howtosleep.work/organic-montmorency-tart-cherry-extract"
+    },
+    "why-side-sleeping-cleans-your-brain-faster": {
+      "enabled": true,
+      "title": "Why Side Sleeping Cleans Your Brain Faster",
+      "text": "Sleeping on your side clears toxic brain waste significantly faster than sleeping on your back.",
+      "button": "Full Body Ergonomic Side-Sleeper Pillow",
+      "url": "https://howtosleep.work/full-body-ergonomic-side-sleeper-pillow"
+    },
+    "4-7-8-breathing-technique-for-midnight-wake-ups": {
+      "enabled": true,
+      "title": "4-7-8 Breathing Technique for Midnight Wake-ups",
+      "text": "If you wake up with anxiety at night, do this breath count to fall right back to sleep.",
+      "button": "Heart Rate Variability (HRV) Breathing Trainer",
+      "url": "https://howtosleep.work/heart-rate-variability-hrv-breathing-trainer"
+    },
+    "the-complete-evening-sleep-sanctuary-checklist": {
+      "enabled": true,
+      "title": "The Complete Evening Sleep Sanctuary Checklist",
+      "text": "Transform your bedroom into a sleep lab with these 3 non-negotiable upgrades.",
+      "button": "Smart HEPA Air Purifier + Sound Machine",
+      "url": "https://howtosleep.work/smart-hepa-air-purifier-sound-machine"
+    },
+    "mouth-tape-vs-nasal-dilators-for-loud-snoring": {
+      "enabled": true,
+      "title": "Mouth Tape vs Nasal Dilators for Loud Snoring",
+      "text": "If snoring wakes you up constantly, your nasal valves are collapsing while you sleep.",
+      "button": "Magnetic / Spring-Flex Nasal Dilator Strips",
+      "url": "https://howtosleep.work/magnetic-spring-flex-nasal-dilator-strips"
+    },
+    "why-wearing-socks-to-bed-makes-you-sleep-faster": {
+      "enabled": true,
+      "title": "Why Wearing Socks to Bed Makes You Sleep Faster",
+      "text": "Wearing socks to bed sounds counterintuitive, but it helps you fall asleep twice as fast.",
+      "button": "Organic Merino Wool Bed Socks",
+      "url": "https://howtosleep.work/organic-merino-wool-bed-socks"
+    },
+    "10-minute-evening-red-light-therapy-reset": {
+      "enabled": true,
+      "title": "10-Minute Evening Red Light Therapy Reset",
+      "text": "Shining red light on your skin before bed primes your mitochondria for overnight recovery.",
+      "button": "Targeted Red Light Therapy Panel (660nm/850nm)",
+      "url": "https://howtosleep.work/targeted-red-light-therapy-panel-660nm-850nm"
+    },
+    "the-danger-of-screen-blue-light-before-bed": {
+      "enabled": true,
+      "title": "Phosphatidylserine: The Cortisol-Busting Hack",
+      "text": "If high stress keeps you awake at night, this cell-membrane nutrient lowers nighttime cortisol.",
+      "button": "Soy-Free Phosphatidylserine Supplement",
+      "url": "https://howtosleep.work/soy-free-phosphatidylserine-supplement"
+    },
+    "how-hot-baths-before-bed-trigger-deep-sleep": {
+      "enabled": true,
+      "title": "How Bedroom Humidity Affects Deep REM Sleep",
+      "text": "If your room is too dry, your respiratory tract inflames and ruins your deep sleep.",
+      "button": "Cool-Mist Ultrasonic Bedroom Humidifier",
+      "url": "https://howtosleep.work/cool-mist-ultrasonic-bedroom-humidifier"
+    },
+    "why-mouthwash-before-bed-destroys-sleep-gas": {
+      "enabled": true,
+      "title": "Why Mouthwash Before Bed Destroys Sleep Gas",
+      "text": "Stop using antiseptic mouthwash before bedit's destroying a crucial sleep molecule.",
+      "button": "Nano-Hydroxyapatite Toothpaste & Tongue Scraper",
+      "url": "https://howtosleep.work/nano-hydroxyapatite-toothpaste-tongue-scraper"
+    },
+    "inositol-the-anxiety-blood-sugar-sleep-hack": {
+      "enabled": true,
+      "title": "Inositol: The Anxiety & Blood Sugar Sleep Hack",
+      "text": "This quiet natural sugar isomer calms midnight panic and stabilizes glucose.",
+      "button": "Pure Myo-Inositol Powder",
+      "url": "https://howtosleep.work/pure-myo-inositol-powder"
+    },
+    "why-magnesium-bisglycinate-prevents-leg-cramps": {
+      "enabled": true,
+      "title": "Why E-Ink Paperwhite Readers Protect Sleep",
+      "text": "Reading on an iPad before bed delays your melatonin by 90 minutes. Do this instead.",
+      "button": "Warm-Light E-Ink Paperwhite Reader",
+      "url": "https://howtosleep.work/warm-light-e-ink-paperwhite-reader"
+    },
+    "the-danger-of-late-night-high-protein-meals": {
+      "enabled": true,
+      "title": "The Danger of Late Night High-Protein Meals",
+      "text": "Eating a massive steak right before bed keeps your liver and kidneys awake all night.",
+      "button": "Easy-Digest Plant-Based Evening Protein",
+      "url": "https://howtosleep.work/easy-digest-plant-based-evening-protein"
+    },
+    "the-danger-of-sleeping-next-to-your-router": {
+      "enabled": true,
+      "title": "Taurine: The GABA Agonist for Deep Brain Sleep",
+      "text": "This amino acid calms overstimulated brain cells and boosts slow-wave sleep depth.",
+      "button": "Pharmaceutical Grade L-Taurine Capsules",
+      "url": "https://howtosleep.work/pharmaceutical-grade-l-taurine-capsules"
+    },
+    "weighted-eye-pillows-the-oculocardiac-reflex": {
+      "enabled": true,
+      "title": "Weighted Eye Pillows & The Oculocardiac Reflex",
+      "text": "Placing gentle weight directly over your eyelids instantly drops your heart rate.",
+      "button": "Lavender & Flaxseed Weighted Eye Pillow",
+      "url": "https://howtosleep.work/lavender-flaxseed-weighted-eye-pillow"
+    },
+    "why-blue-light-blocking-glasses-improve-sleep": {
+      "enabled": true,
+      "title": "The 2-Minute Morning Cold Shower Energy Spike",
+      "text": "Want to turn off morning brain fog instantly? Take a 2-minute cold shower after waking.",
+      "button": "Water-Resistant Shower Timer / Cold Therapy Guide",
+      "url": "https://howtosleep.work/water-resistant-shower-timer-cold-therapy-guide"
+    },
+    "white-noise-vs-pink-noise-which-is-better": {
+      "enabled": true,
+      "title": "White Noise vs Pink Noise: Which Is Better?",
+      "text": "White noise might actually be too harsh for your sleeping brain. Try pink noise instead.",
+      "button": "High-Fidelity Pink Noise Sound Generator",
+      "url": "https://howtosleep.work/high-fidelity-pink-noise-sound-generator"
+    },
+    "why-magnesium-citrate-causes-nighttime-diarrhea": {
+      "enabled": true,
+      "title": "Valerian Root & Passionflower Herbal GABA Stack",
+      "text": "Combine these two ancient herbs to fall asleep faster without prescription drugs.",
+      "button": "Organic Valerian & Passionflower Tea",
+      "url": "https://howtosleep.work/organic-valerian-passionflower-tea"
+    },
+    "the-4-hour-hydration-rule-for-waking-up-to-pee": {
+      "enabled": true,
+      "title": "The 4-Hour Hydration Rule for Waking Up to Pee",
+      "text": "Stop chugging large glasses of water right before bed if you want to stop nocturia.",
+      "button": "Glass Time-Marked Motivational Water Bottle",
+      "url": "https://howtosleep.work/glass-time-marked-motivational-water-bottle"
+    },
+    "why-taking-vitamin-d3-at-night-kills-melatonin": {
+      "enabled": true,
+      "title": "Why Taking Vitamin D3 at Night Kills Melatonin",
+      "text": "Taking Vitamin D3 in the evening tricks your brain into thinking it's midday.",
+      "button": "Liposomal Vitamin D3 + K2 Liquid Drops",
+      "url": "https://howtosleep.work/liposomal-vitamin-d3-k2-liquid-drops"
+    },
+    "why-magnesium-malate-boosts-morning-energy": {
+      "enabled": true,
+      "title": "How Bedroom Dust Mites Suffocate Nighttime Oxygen",
+      "text": "Your mattress might be home to millions of dust mites triggering nocturnal congestion.",
+      "button": "Zippered Hypoallergenic Mattress Encasement",
+      "url": "https://howtosleep.work/zippered-hypoallergenic-mattress-encasement"
+    },
+    "lemon-balm-extract-for-cortisol-gaba-support": {
+      "enabled": true,
+      "title": "Lemon Balm Extract for Cortisol & GABA Support",
+      "text": "This lemon-scented herb calms emotional restlessness and improves sleep continuity.",
+      "button": "Organic Lemon Balm Extract Capsules",
+      "url": "https://howtosleep.work/organic-lemon-balm-extract-capsules"
+    },
+    "the-danger-of-late-night-snacking-for-sleep": {
+      "enabled": true,
+      "title": "Elevate Your Bed Frame to Stop Acid Reflux",
+      "text": "Elevating your bed frame by 4 inches stops nighttime acid reflux and sleep apnea.",
+      "button": "Heavy-Duty Wooden Bed Frame Risers",
+      "url": "https://howtosleep.work/heavy-duty-wooden-bed-frame-risers"
+    },
+    "why-magnesium-taurate-supports-cardiac-sleep": {
+      "enabled": true,
+      "title": "20-Minute Post-Dinner Walk for Glucose Control",
+      "text": "A gentle 15-minute walk after dinner lowers your bedtime blood sugar and boosts deep sleep.",
+      "button": "Minimalist Barefoot Walking Shoes",
+      "url": "https://howtosleep.work/minimalist-barefoot-walking-shoes"
+    },
+    "skullcap-chamomile-the-nervous-system-tonic": {
+      "enabled": true,
+      "title": "Skullcap & Chamomile: The Nervous System Tonic",
+      "text": "If nervous exhaustion keeps you awake, American Skullcap relaxes tense body muscles.",
+      "button": "Organic Skullcap Herbal Extract Tincture",
+      "url": "https://howtosleep.work/organic-skullcap-herbal-extract-tincture"
+    },
+    "the-danger-of-late-night-workout-cortisol": {
+      "enabled": true,
+      "title": "Epsom Salt Baths for Transdermal Magnesium",
+      "text": "Soaking in a hot magnesium bath before bed absorbs minerals while dropping core temp.",
+      "button": "Pure Pharmaceutical Grade Epsom Salt",
+      "url": "https://howtosleep.work/pure-pharmaceutical-grade-epsom-salt"
+    },
+    "why-l-theanine-prevents-midnight-awakening": {
+      "enabled": true,
+      "title": "10-Minute Morning Movement Circadian Lock",
+      "text": "Doing light morning movement right after waking locks in your circadian rhythm for the day.",
+      "button": "Non-Slip Eco Mobility & Yoga Mat",
+      "url": "https://howtosleep.work/non-slip-eco-mobility-yoga-mat"
+    },
+    "why-mulberry-silk-pillowcases-keep-you-cool": {
+      "enabled": true,
+      "title": "Why Mulberry Silk Pillowcases Keep You Cool",
+      "text": "Switching to a 100% Mulberry silk pillowcase keeps your face cool and prevents friction.",
+      "button": "100% Pure Mulberry Silk Pillowcase (22 Momme)",
+      "url": "https://howtosleep.work/100-pure-mulberry-silk-pillowcase-22-momme"
+    },
+    "why-thriller-movies-before-bed-ruin-sleep-latency": {
+      "enabled": true,
+      "title": "Why Thriller Movies Before Bed Ruin Sleep Latency",
+      "text": "Watching intense action movies before bed floods your brain with unwanted adrenaline.",
+      "button": "Dimmable Smart Bedside Reading Lamp",
+      "url": "https://howtosleep.work/dimmable-smart-bedside-reading-lamp"
+    },
+    "why-glycine-lowers-nighttime-core-temperature": {
+      "enabled": true,
+      "title": "Potassium & Magnesium for Nighttime Leg Cramps",
+      "text": "Waking up with painful leg cramps at night? You're lacking these two crucial minerals.",
+      "button": "Zero-Sugar Potassium & Magnesium Electrolyte Mix",
+      "url": "https://howtosleep.work/zero-sugar-potassium-magnesium-electrolyte-mix"
+    },
+    "lavender-aromatherapy-for-20-more-deep-sleep": {
+      "enabled": true,
+      "title": "Lavender Aromatherapy for 20% More Deep Sleep",
+      "text": "Inhaling pure lavender oil for 5 minutes increases slow-wave sleep depth by 20%.",
+      "button": "Ultrasonic Diffuser + Pure Organic Lavender Oil",
+      "url": "https://howtosleep.work/ultrasonic-diffuser-pure-organic-lavender-oil"
+    },
+    "the-danger-of-late-night-heavy-meals": {
+      "enabled": true,
+      "title": "The 12-Hour Caffeine Cutoff Rule for Sleep",
+      "text": "Caffeine has a 6-hour half-life and a 12-hour quarter-life in your body.",
+      "button": "Swiss Water Process Organic Decaf Coffee",
+      "url": "https://howtosleep.work/swiss-water-process-organic-decaf-coffee"
+    },
+    "why-mouth-breathing-changes-your-face-shape": {
+      "enabled": true,
+      "title": "Why Mouth Breathing Changes Your Face Shape",
+      "text": "Chronic mouth breathing doesn't just ruin sleepit physically changes your face shape.",
+      "button": "Myofunctional Tongue & Breathing Trainer",
+      "url": "https://howtosleep.work/myofunctional-tongue-breathing-trainer"
+    },
+    "the-30-day-sleep-optimization-master-protocol": {
+      "enabled": true,
+      "title": "The 30-Day Sleep Optimization Master Protocol",
+      "text": "Stack these 4 daily sleep habits for 30 days to completely rebuild your energy.",
+      "button": "Ultimate Sleep Biohacking Starter Bundle",
+      "url": "https://howtosleep.work/ultimate-sleep-biohacking-starter-bundle"
+    },
+    "the-danger-of-screen-blue-light-before-bed-v61": {
+      "enabled": true,
+      "title": "Glymphatic System: How Your Brain Washes Itself",
+      "text": "Every single night, your brain expands its plumbing to wash away toxic proteins.",
+      "button": "Oura Ring Gen3 / WHOOP 4.0 Tracker",
+      "url": "https://howtosleep.work/oura-ring-gen3-whoop-4-0-tracker"
+    },
+    "why-stomach-sleeping-destroys-your-spine-sleep": {
+      "enabled": true,
+      "title": "Why Stomach Sleeping Destroys Your Spine & Sleep",
+      "text": "If you sleep on your stomach, you are twisting your neck spine 90 degrees for 8 hours.",
+      "button": "Leg & Knee Support Wedge Pillow",
+      "url": "https://howtosleep.work/leg-knee-support-wedge-pillow"
+    },
+    "how-ashwagandha-ksm-66-lowers-bedtime-cortisol": {
+      "enabled": true,
+      "title": "Agmatine Sulfate: The Neuroprotective Sleep Compound",
+      "text": "This arginine derivative calms overactive NMDA brain receptors for deep uninterrupted sleep.",
+      "button": "Pure Agmatine Sulfate Powder",
+      "url": "https://howtosleep.work/pure-agmatine-sulfate-powder"
+    },
+    "the-danger-of-napping-after-3-pm": {
+      "enabled": true,
+      "title": "How Room Temp Drops Trigger Melatonin Release",
+      "text": "Your brain cannot release melatonin properly if your bedroom environment stays warm.",
+      "button": "Smart Programmable Bedroom Thermostat",
+      "url": "https://howtosleep.work/smart-programmable-bedroom-thermostat"
+    },
+    "why-tart-cherry-juice-boosts-melatonin": {
+      "enabled": true,
+      "title": "10-Minute Evening Foam Rolling Vagus Reset",
+      "text": "Foam rolling your mid-back for 5 minutes before bed turns on your parasympathetic sleep state.",
+      "button": "High-Density Foam Roller & Fascia Massager",
+      "url": "https://howtosleep.work/high-density-foam-roller-fascia-massager"
+    },
+    "how-mouth-tape-prevents-loud-snoring": {
+      "enabled": true,
+      "title": "GABA vs L-Theanine: Which Sleep Supplement Wins?",
+      "text": "Taking raw GABA supplements might not work as well as you thinkhere is why.",
+      "button": "Liposomal GABA + L-Theanine Liquid Formula",
+      "url": "https://howtosleep.work/liposomal-gaba-l-theanine-liquid-formula"
+    },
+    "why-heavy-dinners-destroy-rem-dream-sleep": {
+      "enabled": true,
+      "title": "Why Heavy Dinners Destroy REM Dream Sleep",
+      "text": "If you eat a massive meal right before bed, your brain sacrifices REM dreams for digestion.",
+      "button": "Digestive Enzyme Blend for Evening Meals",
+      "url": "https://howtosleep.work/digestive-enzyme-blend-for-evening-meals"
+    },
+    "how-earplugs-increase-deep-sleep-architecture": {
+      "enabled": true,
+      "title": "How Earplugs Increase Deep Sleep Architecture",
+      "text": "Subtle noises at 40 decibels can pull you out of deep sleep without waking you up.",
+      "button": "High-Attenuation Ultra-Soft Sleep Earplugs",
+      "url": "https://howtosleep.work/high-attenuation-ultra-soft-sleep-earplugs"
+    },
+    "oleamide-the-endocannabinoid-sleep-molecule": {
+      "enabled": true,
+      "title": "Oleamide: The Endocannabinoid Sleep Molecule",
+      "text": "Your brain naturally produces this fatty acid sleep molecule when you are sleep deprived.",
+      "button": "Concentrated Jujube Seed Extract Capsules",
+      "url": "https://howtosleep.work/concentrated-jujube-seed-extract-capsules"
+    },
+    "blue-light-blocking-screen-protectors-for-sleep": {
+      "enabled": true,
+      "title": "Blue-Light Blocking Screen Protectors for Sleep",
+      "text": "If you must use your phone at night, put this screen cover on your screen immediately.",
+      "button": "Tempered Glass Blue-Light Screen Protector",
+      "url": "https://howtosleep.work/tempered-glass-blue-light-screen-protector"
+    },
+    "why-2-pm-is-the-universal-circadian-energy-slump": {
+      "enabled": true,
+      "title": "Why 2 PM Is the Universal Circadian Energy Slump",
+      "text": "That 2 PM afternoon slump isn't just because of lunchit's hardwired into your genetics.",
+      "button": "Portable Under-Desk Walking Pad",
+      "url": "https://howtosleep.work/portable-under-desk-walking-pad"
+    },
+    "the-danger-of-late-night-high-sodium-snacks": {
+      "enabled": true,
+      "title": "The Danger of Late Night High-Sodium Snacks",
+      "text": "Eating salty chips late at night causes nocturnal blood pressure spikes and thirst.",
+      "button": "Low-Sodium Organic Evening Snack Pack",
+      "url": "https://howtosleep.work/low-sodium-organic-evening-snack-pack"
+    },
+    "honokiol-magnolol-magnolia-bark-sleep-secret": {
+      "enabled": true,
+      "title": "Honokiol & Magnolol: Magnolia Bark Sleep Secret",
+      "text": "Magnolia bark extract binds to GABA receptors faster than traditional chamomile.",
+      "button": "Pure Magnolia Bark Extract (Honokiol)",
+      "url": "https://howtosleep.work/pure-magnolia-bark-extract-honokiol"
+    },
+    "how-mouth-breathing-causes-nighttime-cavities": {
+      "enabled": true,
+      "title": "How Mouth Breathing Causes Nighttime Cavities",
+      "text": "Waking up with bad breath and dry mouth means your saliva isn't protecting your teeth.",
+      "button": "Remineralizing Hydroxyapatite Night Toothpaste",
+      "url": "https://howtosleep.work/remineralizing-hydroxyapatite-night-toothpaste"
+    },
+    "10-minute-evening-blue-light-audit-for-your-home": {
+      "enabled": true,
+      "title": "10-Minute Evening Blue Light Audit for Your Home",
+      "text": "3 subtle light sources in your house are secretly sabotaging your sleep hormone.",
+      "button": "Blackout LED Dimming Stickers Pack",
+      "url": "https://howtosleep.work/blackout-led-dimming-stickers-pack"
+    },
+    "why-sleep-inertia-happens-how-to-cure-it-fast": {
+      "enabled": true,
+      "title": "Why Sleep Inertia Happens & How to Cure It Fast",
+      "text": "If it takes you an hour to feel human after waking up, you have severe sleep inertia.",
+      "button": "Cold Face Ice Roller & Massage Tool",
+      "url": "https://howtosleep.work/cold-face-ice-roller-massage-tool"
+    },
+    "gotu-kola-the-brain-micro-circulation-sleep-herb": {
+      "enabled": true,
+      "title": "Gotu Kola: The Brain Micro-Circulation Sleep Herb",
+      "text": "This Ayurvedic herb enhances brain micro-circulation while calming central anxiety.",
+      "button": "Organic Gotu Kola Extract Capsules",
+      "url": "https://howtosleep.work/organic-gotu-kola-extract-capsules"
+    },
+    "why-watching-the-clock-creates-bedtime-insomnia": {
+      "enabled": true,
+      "title": "Why Watching the Clock Creates Bedtime Insomnia",
+      "text": "Checking the time when you can't sleep triggers an instant adrenaline panic spike.",
+      "button": "Non-Screen Minimalist Wooden Analog Clock",
+      "url": "https://howtosleep.work/non-screen-minimalist-wooden-analog-clock"
+    },
+    "how-infrared-saunas-before-bed-double-deep-sleep": {
+      "enabled": true,
+      "title": "How Infrared Saunas Before Bed Double Deep Sleep",
+      "text": "Sitting in an infrared sauna 2 hours before bed triggers the ultimate sleep cooling reaction.",
+      "button": "At-Home Infrared Sauna Blanket",
+      "url": "https://howtosleep.work/at-home-infrared-sauna-blanket"
+    },
+    "the-danger-of-late-night-arguments-stress-spikes": {
+      "enabled": true,
+      "title": "The Danger of Late Night Arguments & Stress Spikes",
+      "text": "Having a heavy debate or argument after 9 PM ruins your heart rate variability all night.",
+      "button": "Relationship Communication & Gratitude Deck",
+      "url": "https://howtosleep.work/relationship-communication-gratitude-deck"
+    },
+    "ashwagandha-ksm-66-lowering-cortisol-for-sleep": {
+      "enabled": true,
+      "title": "Ashwagandha (KSM-66): Lowering Cortisol for Sleep",
+      "text": "If you wake up feeling wired and tired, this adaptogen reduces cortisol by 27%.",
+      "button": "KSM-66 Ashwagandha Root Extract",
+      "url": "https://howtosleep.work/ksm-66-ashwagandha-root-extract"
+    },
+    "how-wearing-an-eye-mask-boosts-rem-sleep-29": {
+      "enabled": true,
+      "title": "How Wearing an Eye Mask Boosts REM Sleep 29%",
+      "text": "A clinical trial proved wearing a sleep eye mask increases REM sleep and memory.",
+      "button": "Pure Mulberry Silk Contoured Eye Mask",
+      "url": "https://howtosleep.work/pure-mulberry-silk-contoured-eye-mask"
+    },
+    "10-second-bedtime-stretch-for-lower-back-pain": {
+      "enabled": true,
+      "title": "10-Second Bedtime Stretch for Lower Back Pain",
+      "text": "Do this 10-second hip flexor stretch before bed to stop lower back pain while sleeping.",
+      "button": "Ergonomic Knee Pillow for Back Pain",
+      "url": "https://howtosleep.work/ergonomic-knee-pillow-for-back-pain"
+    },
+    "how-high-altitude-flight-traveling-ruins-sleep": {
+      "enabled": true,
+      "title": "How High Altitude & Flight Traveling Ruins Sleep",
+      "text": "Why you sleep horribly on airplanes and at high altitudesand how to fix it.",
+      "button": "Orthopedic Memory Foam Travel Neck Pillow",
+      "url": "https://howtosleep.work/orthopedic-memory-foam-travel-neck-pillow"
+    },
+    "schisandra-berry-adaptogenic-sleep-liver-tonic": {
+      "enabled": true,
+      "title": "Schisandra Berry: Adaptogenic Sleep & Liver Tonic",
+      "text": "This 5-flavor berry calms nervous system strain while supporting overnight liver detox.",
+      "button": "Organic Schisandra Berry Capsules",
+      "url": "https://howtosleep.work/organic-schisandra-berry-capsules"
+    },
+    "why-heavy-curtains-vs-blackout-shades-matter": {
+      "enabled": true,
+      "title": "Why Heavy Curtains vs Blackout Shades Matter",
+      "text": "Regular curtains let light leak through the sides, ruining your morning melatonin balance.",
+      "button": "100% Total Blackout Magnetic Window Shades",
+      "url": "https://howtosleep.work/100-total-blackout-magnetic-window-shades"
+    },
+    "the-danger-of-late-night-screen-brightness-at-100": {
+      "enabled": true,
+      "title": "The Danger of Late Night Screen Brightness at 100%",
+      "text": "If your phone brightness is at 100% at night, you are blasting your eyes with 500 nits of light.",
+      "button": "Privacy & Blue Light Filter Screen Guard",
+      "url": "https://howtosleep.work/privacy-blue-light-filter-screen-guard"
+    },
+    "holy-basil-tulsi-the-evening-mind-calming-herb": {
+      "enabled": true,
+      "title": "Holy Basil (Tulsi): The Evening Mind-Calming Herb",
+      "text": "Drink this sacred herbal tea before bed to quiet mental chatter and balance blood sugar.",
+      "button": "Organic Holy Basil (Tulsi) Tea Bags",
+      "url": "https://howtosleep.work/organic-holy-basil-tulsi-tea-bags"
+    },
+    "why-air-quality-pm2-5-disrupts-deep-sleep": {
+      "enabled": true,
+      "title": "Why Air Quality (PM2.5) Disrupts Deep Sleep",
+      "text": "Inhaling microscopic dust particles all night causes brain inflammation and restless sleep.",
+      "button": "True HEPA H13 Air Purifier for Bedroom",
+      "url": "https://howtosleep.work/true-hepa-h13-air-purifier-for-bedroom"
+    },
+    "the-90-day-complete-sleep-transformation-system": {
+      "enabled": true,
+      "title": "The 90-Day Complete Sleep Transformation System",
+      "text": "Here is the exact 90-day roadmap to transform from an exhausted insomniac to a deep sleeper.",
+      "button": "Complete Sleep Biohacking Starter Bundle",
+      "url": "https://howtosleep.work/complete-sleep-biohacking-starter-bundle"
     }
   }
+}
