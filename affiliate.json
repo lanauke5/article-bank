@@ -4,26 +4,27 @@
     "description": "Central affiliate CTA configuration for HowToSleep.work. Article keys match the article slug without the leading 3-digit prefix."
   },
   "articles": {
-    "why-youre-still-tired-after-8-hours-of-sleep": {
-      "enabled": true,
-      "title": "Why You're Still Tired After 8 Hours of Sleep",
-      "text": "If you sleep 8 hours and still wake up exhausted, your brain missed this vital phase.",
-      "button": "Smart Cooling Mattress Topper / Temp Pod",
-      "url": "https://howtosleep.work/recommend/smart-cooling-mattress-topper-temp-pod"
-    },
-    "never-drink-coffee-right-after-waking-up": {
-      "enabled": true,
-      "title": "Never Drink Coffee Right After Waking Up",
-      "text": "Drinking coffee within 60 minutes of waking up guarantees an afternoon crash.",
-      "button": "High-Purity Electrolyte Powder Mix",
-      "url": "https://howtosleep.work/recommend/high-purity-electrolyte-powder-mix"
-    },
-    "the-90-day-complete-sleep-transformation-system": {
-      "enabled": true,
-      "title": "The 90-Day Complete Sleep Transformation System",
-      "text": "Here is the exact 90-day roadmap to transform from an exhausted insomniac to a deep sleeper.",
-      "button": "Complete Sleep Biohacking Starter Bundle",
-      "url": "https://howtosleep.work/recommend/complete-sleep-biohacking-starter-bundle"
+     "why-youre-still-tired-after-8-hours-of-sleep": {
+    "enabled": true,
+    "title": "Why You're Still Tired After 8 Hours of Sleep",
+    "text": "If you sleep 8 hours and still wake up exhausted, your brain missed this vital phase.",
+    "button": "Smart Cooling Mattress Topper / Temp Pod",
+    "url": "https://howtosleep.work/smart-cooling-mattress-topper-temp-pod"
+  },
+  "never-drink-coffee-right-after-waking-up": {
+    "enabled": true,
+    "title": "Never Drink Coffee Right After Waking Up",
+    "text": "Drinking coffee within 60 minutes of waking up guarantees an afternoon crash.",
+    "button": "High-Purity Electrolyte Powder Mix",
+    "url": "https://howtosleep.work/high-purity-electrolyte-powder-mix"
+  },
+  "the-3-minute-trick-to-reset-your-sleep-clock": {
+    "enabled": true,
+    "title": "The 3-Minute Trick to Reset Your Sleep Clock",
+    "text": "Here is how to reset your internal body clock in less than 3 minutes every morning.",
+    "button": "10,000 Lux Light Therapy SAD Lamp",
+    "url": "https://howtosleep.work/10-000-lux-light-therapy-sad-lamp"
+  }
     }
   }
 }
