@@ -1,7 +1,7 @@
 ---
 title: "Panduan Keamanan Cyber & Perlindungan Data Sensitif 2026"
 slug: "panduan-keamanan-cyber-data-sensitif-2026"
-category: "Teknologi"
+category: "Baby Sleep"
 tags: ["cybersecurity", "teknologi", "keamanan-data", "privacy"]
 author: "Redaksi PPCNesia"
 created_at: "2026-08-13 10:00:00"
