@@ -3,6 +3,7 @@
     "title": "Baby Care: Gentle Practical Guide for Everyday Parents",
     "slug": "baby-care",
     "date": "2026-07-05",
+    "category": "baby-sleep",
     "description": "Learn practical Baby Care basics with gentle routines, safety reminders, hygiene tips, comfort ideas, and parent-friendly guidance for everyday baby care.",
     "image": "https://images.unsplash.com/photo-1519689680058-324335c77eba?auto=format&fit=crop&w=1200&q=80",
     "labels": [
@@ -17,6 +18,7 @@
     "title": "Newborn Baby Care: Gentle Practical Guide for Everyday Parents",
     "slug": "newborn-baby-care",
     "date": "2026-07-05",
+    "category": "baby-sleep",
     "description": "Learn practical newborn baby care basics with gentle routines, safety reminders, hygiene tips, comfort ideas, and parent-friendly guidance for everyday baby care.",
     "image": "https://images.unsplash.com/photo-1515488042361-ee00e0ddd4e4?auto=format&fit=crop&w=1200&q=80",
     "labels": [
@@ -31,6 +33,7 @@
     "title": "Baby Care Tips: Gentle Practical Guide for Everyday Parents",
     "slug": "baby-care-tips",
     "date": "2026-07-05",
+    "category": "baby-sleep",
     "description": "Learn practical baby care tips basics with gentle routines, safety reminders, hygiene tips, comfort ideas, and parent-friendly guidance for everyday baby care.",
     "image": "https://images.unsplash.com/photo-1492725764893-90b379c2b6e7?auto=format&fit=crop&w=1200&q=80",
     "labels": [
@@ -59,6 +62,7 @@
     "title": "Baby Skin Care: Gentle Practical Guide for Everyday Parents",
     "slug": "baby-skin-care",
     "date": "2026-07-05",
+    "category": "baby-care",
     "description": "Learn practical baby skin care basics with gentle routines, safety reminders, hygiene tips, comfort ideas, and parent-friendly guidance for everyday baby care.",
     "image": "https://images.unsplash.com/photo-1522771930-78848d9293e8?auto=format&fit=crop&w=1200&q=80",
     "labels": [
