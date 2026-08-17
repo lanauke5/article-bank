@@ -1,6 +1,7 @@
 {
   "settings": {
     "default_enabled": false,
+    "cta_position": "after_article",
     "description": "Central affiliate CTA configuration for HowToSleep.work. Article keys match the article slug without the leading 3-digit prefix."
   },
   "articles": {
