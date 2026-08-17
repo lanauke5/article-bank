@@ -17,6 +17,10 @@
       "enabled": true,
       "product": "baby-sleep-sound-machine"
     },
+    "baby-guide-to-sleep": {
+  "enabled": true,
+  "product": "baby-sleep-sound-machine"
+}
     "never-drink-coffee-right-after-waking-up": {
       "enabled": true,
       "title": "Never Drink Coffee Right After Waking Up",
