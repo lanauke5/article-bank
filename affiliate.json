@@ -1,4 +1,5 @@
 {
+  "version": 1,
   "settings": {
     "default_enabled": false,
     "cta_position": "after_article",
