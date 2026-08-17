@@ -1,13 +1,13 @@
 {
-  "magnesium": {
-    "title": "High-Absorption Magnesium Glycinate",
-    "button": "Try It Now",
-    "url": "https://affiliate.com/magnesium"
-  },
-
-  "sleepmask": {
-    "title": "Premium Sleep Mask",
-    "button": "View Product",
-    "url": "https://affiliate.com/mask"
+  "version": 1,
+  "products": {
+    "baby-sleep-sound-machine": {
+      "name": "Baby Sleep Sound Machine",
+      "title": "Create a Calmer Bedtime Environment",
+      "text": "A sound machine can be used as part of a calm and consistent bedtime routine. Follow the product's safety instructions and keep the sound at a safe, low level away from the baby's sleep space.",
+      "button": "View Sleep Sound Machine",
+      "affiliate_url": "https://terasina.com/",
+      "enabled": true
+    }
   }
 }
